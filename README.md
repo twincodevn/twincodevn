@@ -41,15 +41,15 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=twincodevn&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=twincodevn&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=twincodevn&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=twincodevn&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" />
 </div>
 
 <br/>
 
 ## 📈 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=twincodevn&theme=radium&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com/?user=twincodevn&theme=radium&hide_border=true&background=0D1117" />
 </div>
 
 ---
