@@ -4,8 +4,6 @@
 
 <br />
 
-Welcome to my GitHub profile! I'm passionate about building scalable applications and exploring new technologies. Here is a little bit about me and my tech stack.
-
 ---
 
 ## 🏆 Certifications
